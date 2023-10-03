@@ -8,5 +8,8 @@
   - Code: dạng văn bản
   - Kết quả ví dụ thử nghiệm: chụp ảnh màn hình, crop, dán vào word
   - Gửi bài làm vào email **thinhnd@huce.edu.vn**
+  - Sinh viên tự chia sẻ 3G từ điện thoại của mình cho laptop
+
+* Được sử dụng tài liệu, không trao đổi
 
 ## Bài tập lớn: hủy (lớp mất 2 buổi nghỉ lễ)
