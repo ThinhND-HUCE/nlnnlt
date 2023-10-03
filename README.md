@@ -1,5 +1,5 @@
 # Chú ý:
-## Bài kiểm tra giữa kỳ / thi:
+## Nội dung + hình thức kiểm tra giữa kỳ / thi:
 * _Phần trắc nghiệm (5đ):_ điền đáp án các ý vào ô tương ứng
   + Kiến thức tổng quan, ngôn ngữ: Assembly, Python
 
