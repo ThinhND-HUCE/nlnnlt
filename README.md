@@ -1,7 +1,7 @@
 # Chú ý:
 ## Nội dung + hình thức kiểm tra giữa kỳ / thi:
 * _Phần trắc nghiệm (5đ):_ điền đáp án các ý vào ô tương ứng
-  + Kiến thức tổng quan, ngôn ngữ: Assembly, Python
+  + Kiến thức tổng quan, ngôn ngữ: (giảng viên chọn sau)
 
 * _Phần tự luận (5đ):_ trình bày vào file Word, đặt tên: **66CS1_Nguyen_Van_A_MSSV.docx**
   - Chọn làm 2/3 câu, mỗi câu chỉ cần làm bằng 1 ngôn ngữ
@@ -12,4 +12,3 @@
 
 * Được sử dụng tài liệu, không trao đổi
 
-## Bài tập lớn: hủy (lớp mất 2 buổi nghỉ lễ)
