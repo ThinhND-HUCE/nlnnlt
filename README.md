@@ -1,5 +1,6 @@
 # Thông báo
-* Bài thi cuối kỳ thầy chưa nhận được bài nộp của 1 bạn **Hoàng Xuân Vinh**. Đề nghị bạn khẩn trương xác minh, nộp bài (kèm minh chứng thời gian từng nộp)
+* Lớp 68CS3, môn Nguyên lý ngôn ngữ lập trình
+  + Hình thức thi: trắc nghiệm, không sử dụng tài liệu
 
 
 # Chú ý:
